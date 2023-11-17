@@ -1,4 +1,4 @@
-name: Run Docker and Display Name
+name: Display Name
 
 on:
   push:
